@@ -1,0 +1,13 @@
+{
+  "description": "Create stunning, soft color blends with customizable shapes and blur effects, perfect for designers seeking unique visuals for web and print.",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
